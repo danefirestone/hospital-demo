@@ -60,9 +60,9 @@ local.properties
 .scala_dependencies
 .worksheet
 
-# Uncomment this line if you wish to ignore the project description file.
+# Uncomment this line if you wish to ignore the description file.
 # Typically, this file would be tracked if it contains build/dependency configurations:
-#.project
+#.projec
 
 ### Eclipse Patch ###
 # Spring Boot Tooling
@@ -114,7 +114,7 @@ cmake-build-*/
 # Mongo Explorer plugin
 .idea/**/mongoSettings.xml
 
-# File-based project format
+# File-based hospital format
 *.iws
 
 # IntelliJ
